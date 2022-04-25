@@ -32,7 +32,8 @@ public class ControleApplication {
 		SpringApplication.run(ControleApplication.class, args);
 		
 				
-		System.out.println("Controle jee : Ayoub KHYATI 4IIRG2C");
+		System.out.println("hamza bouchti");
+		
 		
 		
 		
